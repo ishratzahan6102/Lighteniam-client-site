@@ -1,0 +1,36 @@
+.register-section {
+    margin: 149px  auto;
+}
+
+.register-heading h1 {
+    font-family: 'Century Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 51px;
+    margin-bottom: 40px;
+    color: #000000;
+}
+
+.register-section>.container {
+    max-width: 636px;
+    margin: 0 auto;
+    
+}
+
+.register-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+
+
+}
+
+.register-form input {
+    width: 306px;
+}
+#submit-btn{
+    width: 200px;
+    margin-top: 32px;
+    margin-bottom: 8px;
+}

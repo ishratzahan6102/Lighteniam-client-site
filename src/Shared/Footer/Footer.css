@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700&display=swap');
+
+.footer div span {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.footer {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 64px 70px;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.footer-text {
+    max-width: 423px;
+}
+
+@media screen and (max-width: 576px) {
+    .footer-text{
+        width: 100%;
+    }
+}

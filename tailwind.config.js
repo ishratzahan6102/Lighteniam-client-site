@@ -9,5 +9,5 @@ module.exports = {
   daisyui: {
     themes: ["lofi"],
   },
-  plugins: [],
+  plugins: [require("daisyui")],
 }

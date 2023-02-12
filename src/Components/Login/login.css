@@ -1,0 +1,34 @@
+.login-section {
+    margin: 179px  auto;
+}
+
+.login-heading h1 {
+    font-family: 'Century Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 51px;
+    margin-bottom: 40px;
+    color: #000000;
+}
+
+.container {
+    max-width: 636px;
+    margin: 0 auto;
+    
+}
+
+.login-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+
+
+}
+
+.login-form input {
+    width: 306px;
+}
+#submit-btn{
+    width: 50%;
+}
